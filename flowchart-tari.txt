@@ -1,0 +1,41 @@
+jawab soal ujian dibawah ini dan tulis program nya dengan basa pemrograman java
+-------------------------------------------------------------
+• Nama file dari kode program harus mengikuti format
+DigimonEvolution_NPM (DigimonEvolution_1402017156.java)
+• Program harus menampilkan Nama dan NPM Anda.
+• Program harus memiliki komentar Nama dan NPM Anda.
+• Program hanya menerima 1 String argumen.
+    • java DigimonEvolution_1402017156 Greymon
+    • Argumen ke-1 (jumlah hari beternak) adalah String nama digimon
+    target digivolution path.
+• Program harus menggunakan minimal 1 Struktur Data Graph / Tree.
+• Saat menggunakan Struktur Data, Anda harus menyertakan justifikasi
+penggunaannya di dalam Kode Program (Gunakan komentar. Tidak
+ada format atau cara khusus dalam menulis Justifikasi).
+
+Digivolution Tree :
+Agumon -> Meramon
+Agumon -> GeoGreymon -> RiseGreymon -> ShineGreymon
+Agumon -> GeoGreymon -> RiseGreymon -> VictoryGreymon
+agumon -> Tyranomon -> Triceramon
+agumon -> Greymon -> MetalGreymon -> WarGreymon
+
+rokie:
+Agumon
+champion:
+Greymon, Tyranomon, GeoGreymon, Meramon
+Ultimate:
+MetalGreymon, Triceramon, RiseGreymon
+mega:
+WarGreymon, VictoryGreymon
+
+• Simpanlah Digivolution Tree Agumon dalam sebuah struktur data
+Graph/Tree.
+• Buatlah sebuah kode program yang dapat mencetak kemungkinan
+Digivolution Path Agumon ke Target Digimon (Bisa lebih dari 1).
+• Kode program Anda harus bisa menjelajahi (Traversal)
+DigivolutionTree Agumon untuk mencetak Digivolution Path. (Wajib,
+nilai 0 jika tidak ada)
+• Kode program Anda harus bisa memvalidasi apakah Target Digimon
+ada di Digivolution Tree Agumon (Searching). (Wajib, nilai 0 jika tidak
+ada)
